@@ -1,2 +1,3 @@
 # yofi-ml-exam
-Yofi's ML Exam March 2020
+Yofi's machine learning final, March 2020
+tensorflow code for estimatig
